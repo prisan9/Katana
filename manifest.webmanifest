@@ -1,0 +1,19 @@
+{
+  "name": "Katana",
+  "short_name": "Katana",
+  "description": "Learn Japanese from your own clips: on-device subtitles, tap-to-define words, speaking checks and spaced repetition.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F5FF",
+  "theme_color": "#7C5CFF",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
